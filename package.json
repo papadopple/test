@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/papadopple/test/issues"
   },
-  "homepage": "https://github.com/papadopple/test#readme"
+  "homepage": "https://github.com/papadopple/test#readme",
+  "dependencies": {
+    "array-first": "^1.0.2"
+  }
 }
